@@ -1,7 +1,8 @@
 package Day1;
 
 import java.util.Arrays;
-
+// Leetcode 88: Merge Sorted Array
+//https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150
 public class MergeTwoSortedArrays {
     public static void main(String[] args) {
         int[] nums1 = {1,2,3,0,0,0};
