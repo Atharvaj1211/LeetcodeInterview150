@@ -1,4 +1,4 @@
-package LeetCodeTop150.Day1;
+package Day1;
 
 import java.util.Arrays;
 
